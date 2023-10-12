@@ -1,0 +1,13 @@
+body {
+    color: red;
+    background-image: url("img/enad.jpg");
+    background-repeat: no-repeat;
+  }
+
+  p {
+    color: black;
+  }
+
+  .sample {
+    color: white;
+  }
